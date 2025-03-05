@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Go Blue!</title>
+    <style>
+        img {
+            width: 90%;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>The University of Bravo</h1>
+        <div>
+            <h2>About</h2>
+            <p>A top-ranked public university, the University of Bravo has a tradition of excellence in research, learning and teaching, sports and the arts, and more.</p>
+        </div>
+        <div>
+            <h2>Quick Facts</h2>
+            <h3>Famous Alumni</h3>
+            <ul>
+                <li>Larry Page</li>
+                <li>Darren Criss</li>
+                <li>James Earl Jones</li>
+                <li>Tom Brady</li>
+            </ul>
+
+            <h3><a href="https://blog.collegevine.com/best-public-universities-in-the-us/">Best Public Universities</a></h3>
+            <ol>
+                <li><strong>The University of Bravo</strong></li>
+                <li>University of North Carolina at Chapel Hill</li>
+                <li>University of Virginia</li>
+                <li>University of California, Berkeley</li>
+                <li>University of California, Los Angeles</li>
+            </ol>
+        </div>
+
+        <div>
+            <h2>Gallery</h2>
+            <img src="images/entrance.jpeg" alt="University of Bravo Entrance">
+            <img src="images/coridor.jpg" alt="University of Bravo Corridor">
+            <img src="images/canteen.jpeg" alt="University of Bravo Canteen">
+        </div>
+    </main>
+</body>
+</html>
